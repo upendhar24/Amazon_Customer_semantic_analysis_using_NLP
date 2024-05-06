@@ -4,16 +4,7 @@ The paper focuses on developing a sophisticated classification model for custome
 the dataset is collected from the Kaggle and we have performed some preprocessing and data cleaning to remove the Nan Values.
 We have used the Bert Tokenisation to tokenise the reviews of the products and tested the same data with different classifiers.
 
-Classifier Models	Accuracy
-KNN	0.68
-Gaussian Naïve Bayes	0.73
-Multinomial Naïve Bayes	0.69
-Decision Tree	0.68
-Random Forest	0.67
-Logistic Regression	0.70
-Support Vector machine	0.72
-Multi-layer Perceptron (MLP)	0.75
-Voting Classifier (Hard)	0.74
-Voting Classifier (Soft)	0.77
+![image](https://github.com/upendhar24/Amazon_Customer_semantic_analysis_using_NLP/assets/81072101/ee5045ff-4da1-4e7b-bc9f-6ed404451ee0)
+
 
 these are the final results for each classifier.
